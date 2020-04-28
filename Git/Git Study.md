@@ -4,3 +4,4 @@
     https://techacademy.jp/magazine/6235
 - テスト
 - テスト2
+- テスト2
